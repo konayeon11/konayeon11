@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![konayeon11's Top Langs](https://github-readme-stats.vercel.app)
+
 <!--
 **konayeon11/konayeon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

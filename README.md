@@ -30,6 +30,9 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&layout=compact)
 <!--
 **konayeon11/konayeon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
